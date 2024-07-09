@@ -2,7 +2,8 @@
 
 **Estado del proyecto:** Finalizado
 
-# Este proyecto es parte del desafio Alura.
+## Este proyecto es parte del desafio Alura.
+**Lenguajes:** Html, css, Javascript.
 
 ## Uso
 
