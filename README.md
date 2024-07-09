@@ -1,7 +1,9 @@
 <h1>Encriptador  de texto</h1>
 -Estado de proyecto: finalizado.
 
+
 Uso
+
 Encriptar un Mensaje:
 
 1 Escribe "mensaje de prueba" en el cuadro de texto.
