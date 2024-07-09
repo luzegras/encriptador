@@ -1,7 +1,5 @@
 # Encriptador de Texto
-## Autor:
-
-Victor Padilla (Luzegras)
+## Autor:Victor Padilla (Luzegras)
 
 **Estado del proyecto:** Finalizado
 
