@@ -13,7 +13,7 @@ Encriptar un Mensaje:
 
 Desencriptar un Mensaje:
 
-1 Ingresa "mensenjober de preufbatimes" en el cuadro de texto.
+1 Ingresa el texto encriptado en el cuadro de texto.
 
 2 Presiona el botón "Desencriptar".
 
