@@ -1,5 +1,6 @@
 # Encriptador de Texto
-
+##Autor:##
+Victor Padilla (Luzegras)
 **Estado del proyecto:** Finalizado
 
 ## Este proyecto es parte del desafio Alura.
