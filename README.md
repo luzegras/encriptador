@@ -2,6 +2,8 @@
 
 **Estado del proyecto:** Finalizado
 
+# Este proyecto es parte del desafio Alura.
+
 ## Uso
 
 ### Encriptar un Mensaje:
