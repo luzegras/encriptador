@@ -1,27 +1,21 @@
-<h1>Encriptador  de texto</h1>
--Estado de proyecto: finalizado.
+# Encriptador de Texto
 
+**Estado del proyecto:** Finalizado
 
-<h1>Uso</h1>
+## Uso
 
--Encriptar un Mensaje:
+### Encriptar un Mensaje:
 
-1 Escribe "mensaje de prueba" en el cuadro de texto.
+1. Escribe "mensaje de prueba" en el cuadro de texto.
+2. Presiona el botón "Encriptar".
+3. El texto encriptado aparecerá en el segundo cuadro de texto.
 
-2 Presiona el botón "Encriptar".
+### Desencriptar un Mensaje:
 
-3 El texto encriptado aparecerá en el segundo cuadro de texto.
+1. Ingresa el texto encriptado en el cuadro de texto.
+2. Presiona el botón "Desencriptar".
+3. El texto desencriptado aparecerá en el segundo cuadro de texto y será "mensaje de prueba".
 
+### Copiar el Texto Desencriptado:
 
--Desencriptar un Mensaje:
-
-1 Ingresa el texto encriptado en el cuadro de texto.
-
-2 Presiona el botón "Desencriptar".
-
-3 El texto desencriptado aparecerá en el segundo cuadro de texto y será "mensaje de prueba".
-
-
--Copiar el Texto Desencriptado:
-
-Presiona el botón "Copiar" para copiar el texto de la caja encriptada al portapapeles.
+- Presiona el botón "Copiar" para copiar el texto desencriptado al portapapeles.
